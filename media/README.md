@@ -1,23 +1,14 @@
-# Media Capture Plan
+# Media
 
-Add the final public screenshots and short GIFs here before publishing the hub repo.
+Add screenshots and short clips for the Tower Defense case study here.
 
-## Required Captures
+Recommended first batch:
 
-- `main-menu.png`
-- `gameplay.png`
-- `hud.png`
-- `meta-progression.png`
-
-## Nice To Have
-
-- `android-gameplay.gif`
-- `godot-gameplay.gif`
-- `unity-gameplay.gif`
-
-## Capture Rules
-
-- Use the same general moment in each version so the three repos feel comparable.
-- Favor gameplay clarity over raw visual noise.
-- Avoid editor screenshots unless the screenshot supports a technical explanation.
-- Crop away unrelated desktop clutter before uploading.
+- Android menu
+- Android gameplay
+- Android achievements/stats
+- Godot gameplay HUD
+- Godot editor scene tree
+- Unity editor
+- Unity gameplay
+- Comparison table from the main README
