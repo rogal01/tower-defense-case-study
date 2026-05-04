@@ -39,20 +39,25 @@ This repository is the portfolio case study that connects the three implementati
 - Godot/GDScript: <https://github.com/rogal01/tower-defense-godot>
 - Unity/C#: <https://github.com/rogal01/tower-defense-unity-port>
 
-## Portfolio Screenshot Plan
+## Screenshots
 
-Use these screenshots on Useme:
+### Android / Kotlin
 
-1. Android main menu.
-2. Android gameplay with towers/enemies visible.
-3. Android achievements or stats screen.
-4. Godot gameplay HUD with wave preview.
-5. Godot scene/script structure.
-6. Unity editor view with game scene.
-7. Unity gameplay/runtime view.
-8. One comparison table screenshot from this README.
+![Android main menu](media/01-android-menu.png)
 
-Keep the first screenshot visual and understandable for a non-technical client. Put code/editor screenshots later as proof of depth.
+![Android gameplay](media/02-android-gameplay.png)
+
+### Godot / GDScript
+
+![Godot menu](media/03-godot-menu.png)
+
+![Godot gameplay](media/04-godot-gameplay.png)
+
+### Unity / C#
+
+![Unity menu](media/05-unity-menu.png)
+
+![Unity gameplay](media/06-unity-gameplay.png)
 
 ## What I Learned
 
@@ -62,7 +67,6 @@ The useful portfolio story is that I can build a system once, understand its rul
 
 ## Current Polish Checklist
 
-- Add screenshots to `media/`.
 - Keep Unity generated folders such as `Library`, `Temp`, and `Logs` out of Git.
 - Add short clips or GIFs for gameplay if Useme allows media.
 - Make sure each linked repository has a clean README, no private data, and a clear run guide.
